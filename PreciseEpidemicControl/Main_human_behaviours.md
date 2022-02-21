@@ -18,6 +18,17 @@ Targeting Automatic Processes
 
 ## 疾病和行为的共演化
 
+## How to Model Social Contact behaviours
+I heterogeneity: superspreader, age, male, infection age, jobs
+
+S heterogeneity: suspectivity, age, male, vaccination status, jobs
+
+beta heterogeneity: face mask, hand sanitizer, barriers, 
+
+K0: physical distancing
+
+K: house, school, workplace, public
+
   
 # Experts in this area
 Funk Sebatian
