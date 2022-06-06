@@ -10,7 +10,7 @@ Opt in Banach Space
 时间和空间Complexity
 
 ## 2. 基础规划与典型优化问题
-[Decison Tree for Optimization Software](http://plato.asu.edu/sub/benchm.html)
+Review[Decison Tree for Optimization Software](http://plato.asu.edu/sub/benchm.html)
 
 <mark>建模与转化</mark>
 
@@ -63,12 +63,18 @@ Nonconvex.jl
 见全局优化
 
 ### 一阶方法
-
+JuliaFirstOrder
 ### 二阶方法
 
 
 ### 有约束问题
+Peanalty
 
+Barrier
+
+Relaxed Peanalty
+
+Augumental Lagrange
 
 ## 4. 凸与非凸优化
 
@@ -90,6 +96,8 @@ Nonconvex.jl
 
 ### 8.3. Surrogate式
 
+
+### 8.4. 转化技巧
 
 ## 9. Composite optimization复合优化
 见北大教材第八章

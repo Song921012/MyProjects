@@ -11,6 +11,7 @@ sidebar_position: 2
 (1)简单优化与简单运筹学
 
 参考书目：北大优化教材为主，06优化教材，16运筹教材，18优化教材
+Convex Optimization
 
 (2)ODE最优控制: 
 
