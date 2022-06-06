@@ -99,6 +99,20 @@ Augumental Lagrange
 
 ### 8.4. 转化技巧
 
+<mark>增加变量，增加约束条件</mark>
+整数规划变正常规划： sin(pi*x)
+
+$z\leq 0 $ 或者 $ x \leq 0$ : $ z \leq (1-u)*M,  x \leq u*M， u=0,1$ M很大
+
+minmax用任意代替，如特征值用不等号替代
+
+整体换元：分式变等式
+
+Koopman分析
+
+
+
+
 ## 9. Composite optimization复合优化
 见北大教材第八章
 
