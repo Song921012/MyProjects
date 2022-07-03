@@ -62,8 +62,12 @@ Nonconvex.jl
 ### 全局优化：智能算法
 见全局优化
 
+线性搜索技术
+
 ### 一阶方法
 JuliaFirstOrder
+
+FirstOrder Book
 ### 二阶方法
 
 
